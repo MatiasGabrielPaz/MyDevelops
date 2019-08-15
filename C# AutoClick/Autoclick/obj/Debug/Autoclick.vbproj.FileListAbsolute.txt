@@ -1,0 +1,30 @@
+C:\Users\MAATI\AppData\Local\Temporary Projects\Autoclick\bin\Debug\Autoclick.exe.config
+C:\Users\MAATI\AppData\Local\Temporary Projects\Autoclick\obj\Debug\Autoclick.Form1.resources
+C:\Users\MAATI\AppData\Local\Temporary Projects\Autoclick\obj\Debug\Autoclick.Resources.resources
+C:\Users\MAATI\AppData\Local\Temporary Projects\Autoclick\obj\Debug\Autoclick.vbproj.GenerateResource.Cache
+C:\Users\MAATI\AppData\Local\Temporary Projects\Autoclick\bin\Debug\Autoclick.exe
+C:\Users\MAATI\AppData\Local\Temporary Projects\Autoclick\bin\Debug\Autoclick.pdb
+C:\Users\MAATI\AppData\Local\Temporary Projects\Autoclick\bin\Debug\Autoclick.xml
+C:\Users\MAATI\AppData\Local\Temporary Projects\Autoclick\obj\Debug\Autoclick.exe
+C:\Users\MAATI\AppData\Local\Temporary Projects\Autoclick\obj\Debug\Autoclick.xml
+C:\Users\MAATI\AppData\Local\Temporary Projects\Autoclick\obj\Debug\Autoclick.pdb
+C:\Users\MAATI\Desktop\Autoclick\Autoclick\bin\Debug\Autoclick.exe.config
+C:\Users\MAATI\Desktop\Autoclick\Autoclick\obj\Debug\Autoclick.exe
+C:\Users\MAATI\Desktop\Autoclick\Autoclick\obj\Debug\Autoclick.xml
+C:\Users\MAATI\Desktop\Autoclick\Autoclick\obj\Debug\Autoclick.pdb
+C:\Users\MAATI\Desktop\Autoclick\Autoclick\bin\Debug\Autoclick.exe
+C:\Users\MAATI\Desktop\Autoclick\Autoclick\bin\Debug\Autoclick.pdb
+C:\Users\MAATI\Desktop\Autoclick\Autoclick\bin\Debug\Autoclick.xml
+C:\Users\MAATI\Desktop\Autoclick\Autoclick\obj\Debug\Autoclick.Form1.resources
+C:\Users\MAATI\Desktop\Autoclick\Autoclick\obj\Debug\Autoclick.Resources.resources
+C:\Users\MAATI\Desktop\Autoclick\Autoclick\obj\Debug\Autoclick.vbproj.GenerateResource.Cache
+E:\Visual proyectos\Autoclick\Autoclick\bin\Debug\Autoclick.exe.config
+E:\Visual proyectos\Autoclick\Autoclick\obj\Debug\Autoclick.exe
+E:\Visual proyectos\Autoclick\Autoclick\obj\Debug\Autoclick.xml
+E:\Visual proyectos\Autoclick\Autoclick\obj\Debug\Autoclick.pdb
+E:\Visual proyectos\Autoclick\Autoclick\bin\Debug\Autoclick.exe
+E:\Visual proyectos\Autoclick\Autoclick\bin\Debug\Autoclick.pdb
+E:\Visual proyectos\Autoclick\Autoclick\bin\Debug\Autoclick.xml
+E:\Visual proyectos\Autoclick\Autoclick\obj\Debug\Autoclick.Form1.resources
+E:\Visual proyectos\Autoclick\Autoclick\obj\Debug\Autoclick.Resources.resources
+E:\Visual proyectos\Autoclick\Autoclick\obj\Debug\Autoclick.vbproj.GenerateResource.Cache
