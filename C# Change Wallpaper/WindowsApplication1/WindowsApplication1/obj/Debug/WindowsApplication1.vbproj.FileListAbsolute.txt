@@ -1,0 +1,22 @@
+C:\Users\MAATI\AppData\Local\Temporary Projects\WindowsApplication1\obj\Debug\WindowsApplication1.Form1.resources
+C:\Users\MAATI\AppData\Local\Temporary Projects\WindowsApplication1\obj\Debug\WindowsApplication1.Resources.resources
+C:\Users\MAATI\AppData\Local\Temporary Projects\WindowsApplication1\obj\Debug\WindowsApplication1.vbproj.GenerateResource.Cache
+C:\Users\MAATI\AppData\Local\Temporary Projects\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+C:\Users\MAATI\AppData\Local\Temporary Projects\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+C:\Users\MAATI\AppData\Local\Temporary Projects\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+C:\Users\MAATI\AppData\Local\Temporary Projects\WindowsApplication1\obj\Debug\WindowsApplication1.exe
+C:\Users\MAATI\AppData\Local\Temporary Projects\WindowsApplication1\obj\Debug\WindowsApplication1.xml
+C:\Users\MAATI\AppData\Local\Temporary Projects\WindowsApplication1\obj\Debug\WindowsApplication1.pdb
+E:\Visual proyectos\Change Wallpaper\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.exe
+E:\Visual proyectos\Change Wallpaper\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.xml
+E:\Visual proyectos\Change Wallpaper\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.pdb
+C:\Users\MatiasGabriel.Paz\Desktop\Backup\Visual proyectos\Change Wallpaper\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+C:\Users\MatiasGabriel.Paz\Desktop\Backup\Visual proyectos\Change Wallpaper\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+C:\Users\MatiasGabriel.Paz\Desktop\Backup\Visual proyectos\Change Wallpaper\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+C:\Users\MatiasGabriel.Paz\Desktop\Backup\Visual proyectos\Change Wallpaper\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Form1.resources
+C:\Users\MatiasGabriel.Paz\Desktop\Backup\Visual proyectos\Change Wallpaper\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Resources.resources
+C:\Users\MatiasGabriel.Paz\Desktop\Backup\Visual proyectos\Change Wallpaper\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.vbproj.GenerateResource.Cache
+C:\Users\MatiasGabriel.Paz\Desktop\Backup\Visual proyectos\Change Wallpaper\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.vbproj.CoreCompileInputs.cache
+C:\Users\MatiasGabriel.Paz\Desktop\Backup\Visual proyectos\Change Wallpaper\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.exe
+C:\Users\MatiasGabriel.Paz\Desktop\Backup\Visual proyectos\Change Wallpaper\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.xml
+C:\Users\MatiasGabriel.Paz\Desktop\Backup\Visual proyectos\Change Wallpaper\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.pdb
